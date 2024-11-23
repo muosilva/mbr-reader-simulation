@@ -1,5 +1,3 @@
-# mbr-reader-simulation
-
 # Simulador de MBR e Partições
 
 Este projeto simula a leitura e a análise de um MBR (Master Boot Record) em um disco rígido, permitindo que você visualize as informações sobre o MBR e as partições contidas nele. É um programa simples escrito em C que lê um arquivo binário de MBR e exibe seus detalhes de forma legível, incluindo as informações sobre as partições.
