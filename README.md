@@ -16,5 +16,7 @@ Este projeto simula a leitura e a análise de um MBR (Master Boot Record) em um 
 3. As informações incluem dados como a assinatura do MBR, o endereço dos setores das partições e o tipo de cada partição.
 4. O programa também exibe o tamanho do disco em GiB, o número total de setores e o identificador único do disco.
 
+### Output
 
+![image](https://github.com/user-attachments/assets/4e5432f2-6768-4e17-ae44-8def8c03d93c)
 
